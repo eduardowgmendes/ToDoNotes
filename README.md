@@ -34,7 +34,7 @@ A aplicação não utiliza bibliotecas third-party. Apenas as bibliotecas da pr�
 - Incluir imagens nas notas e lembretes
 
 # Tecnologias utilizadas
-- Java e SQLITE3 Nativo do Android
+- APIs Android, Java e SQLITE3 Nativo do Android
 
 Este projeto foi concebido com o intuito educacional apenas para aprimorar minhas habilidades de desenvolvimento com a plataforma, OOP e Java, portanto muitas coisas ainda necessitam ser modificadas. 
 
