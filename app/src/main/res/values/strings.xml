@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name" translatable="false">ToDo Notes</string>
+    <string name="message_title">Error</string>
+    <string name="message_content">Title or Content fields must be not empty</string>
+    <string name="positive_button">OK</string>
+    <string name="negative_button">Cancel</string>
+    <string name="neutral_button">Retry</string>
+
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+
+    <string name="task_title_hint">Title</string>
+    <string name="task_content_hint">Content</string>
+    <string name="save_task_button">Save</string>
+    <string name="empty_state_title">It\'s kind of empty here.</string>
+    <string name="empty_state_message">Add some tasks and notes by pressing the \nbutton in the lower right corner of the screen</string>
+    <string name="empty_state_search_title">Oops!</string>
+    <string name="empty_state_search_message">Your search not returns any results</string>
+
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="share_via">Share Via:</string>
+    <string name="share_subject">TO-DO: </string>
+    <string name="priority_spinner_hint">Priority</string>
+    <string name="saving">Saving…</string>
+    <string name="updating">Updating…</string>
+    <string name="about_menu">About</string>
+    <string name="search_menu_item">Search</string>
+    <string name="order_by_menu_item">Layout</string>
+    <string name="none_to_order">Nothing to organize</string>
+</resources>

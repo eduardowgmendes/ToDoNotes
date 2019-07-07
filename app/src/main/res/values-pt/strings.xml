@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDo Notes</string>
+    <string name="delete" translatable="false">Deletar</string>
+    <string name="empty_state_title" translatable="false">Meio vazio aqui não?</string>
+    <string name="empty_state_message" translatable="false">Adicione algumas notas pressionando o \nbotão circular no canto direito inferior da tela</string>
+    <string name="empty_state_search_title" translatable="false">Opa!</string>
+    <string name="empty_state_search_message" translatable="false">Sua busca não retornou nenhum resultado</string>
+    <string name="order_by_menu_item" translatable="false">Layout</string>
+    <string name="message_content" translatable="false">Os campos de título e conteúdo não devem estar vazios</string>
+    <string name="message_title" translatable="false">Erro</string>
+    <string name="negative_button" translatable="false">Cancelar</string>
+    <string name="neutral_button" translatable="false">Tentar Novamente</string>
+    <string name="positive_button" translatable="false">Ok</string>
+    <string name="priority_high">Alta</string>
+    <string name="priority_low">Baixa</string>
+    <string name="priority_medium">Média</string>
+    <string name="priority_spinner_hint">Prioridade</string>
+    <string name="save_task_button">Salvar</string>
+    <string name="share">Compartilhar</string>
+    <string name="share_subject">"PARA FAZER: "</string>
+    <string name="share_via">"Compartilhar via: "</string>
+    <string name="task_content_hint">Conteúdo</string>
+    <string name="task_title_hint">Título</string>
+    <string name="saving">Salvando…</string>
+    <string name="updating">Atualizando…</string>
+    <string name="search_menu_item" translatable="false">Buscar</string>
+    <string name="about_menu" translatable="false">Sobre</string>
+    <string name="none_to_order" translatable="false">Nada para Organizar</string>
+</resources>
