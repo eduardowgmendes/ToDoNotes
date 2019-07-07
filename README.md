@@ -1,6 +1,8 @@
 # ToDoNotes v1.0.0
+| Tela Inicial             |  Empty State             | 
+:-------------------------:|:-------------------------:
+![Tela inicial](https://raw.githubusercontent.com/eduardowgmendes/ToDoNotes/master/Screenshot_1562493857.png) | ![Sem conteúdo](https://raw.githubusercontent.com/eduardowgmendes/ToDoNotes/master/Screenshot_1562493389.png)
 
-![Tela inicial](https://raw.githubusercontent.com/eduardowgmendes/ToDoNotes/master/Screenshot_1562493857.png)
 
 ## Uma maneira simples de organizar sua vida
 ToDo Notes é um aplicativo de organização. Adicione suas notas e lembretes importantes na lista de coisas à serem feitas de forma rápida. Compartilhe suas notas e lembretes com outras pessoas. 
@@ -14,16 +16,10 @@ ToDo Notes é um aplicativo de organização. Adicione suas notas e lembretes im
 
 ## Detalhes
 
-Empty State sem conteúdo 
-![Sem conteúdo](https://raw.githubusercontent.com/eduardowgmendes/ToDoNotes/master/Screenshot_1562493389.png)
 
-
-Criação de uma nota 
-![Criando uma nota](https://raw.githubusercontent.com/eduardowgmendes/ToDoNotes/master/Screenshot_1562493468.png)
-
-
-Modificando sua prioridade
-![Modificando prioridades](https://raw.githubusercontent.com/eduardowgmendes/ToDoNotes/master/Screenshot_1562493473.png)
+Criando uma Nota           |  Modificando Prioridades | 
+:-------------------------:|:-------------------------:
+![Criando uma nota](https://raw.githubusercontent.com/eduardowgmendes/ToDoNotes/master/Screenshot_1562493468.png) | ![Modificando prioridades](https://raw.githubusercontent.com/eduardowgmendes/ToDoNotes/master/Screenshot_1562493473.png)
 
 ## Sobre o Projeto 
 Apesar de funcionar muito bem inicialmente, o projeto ainda está em fase beta e muita coisa ainda precisa ser refatorada para melhorar o desempenho e outras características da aplicação. Para salvar as notas e os lembretes o aplicativo faz uso do SQLite, um banco de dados poderoso e sofisticado presente nativamente no Android.
