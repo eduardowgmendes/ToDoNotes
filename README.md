@@ -7,6 +7,14 @@
 ## Uma maneira simples de organizar sua vida
 ToDo Notes é um aplicativo de organização. Adicione suas notas e lembretes importantes na lista de coisas à serem feitas de forma rápida. Compartilhe suas notas e lembretes com outras pessoas. 
 
+## Objetivos Alcançados
+- Suporte a internacionalização
+- Pesquisa de notas por palavras chave
+- Definição do layout de exibição das notas (StaggeredGrid, LinearLayout Vertical ou Grid)
+- Empty States para casos onde não há conteúdo 
+- Criação, Edição e Exclusão de notas e lembretes do SQLITE
+- Definição de Prioridades para os lembretes
+
 ## Objetivos futuros 
 - Adicionar opção de listagem de itens nas notas e lembretes 
 - Definir o recurso de criação de alarmes para alertar sobre uma tarefa futura
