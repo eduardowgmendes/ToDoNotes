@@ -15,7 +15,7 @@ Criando uma Nota           |  Modificando Prioridades |
 ![Criando uma nota](https://raw.githubusercontent.com/eduardowgmendes/ToDoNotes/master/Screenshot_1562493468.png) | ![Modificando prioridades](https://raw.githubusercontent.com/eduardowgmendes/ToDoNotes/master/Screenshot_1562493473.png)
 
 ## Sobre o Projeto 
-Apesar de funcionar muito bem inicialmente, o projeto ainda está em fase beta e muita coisa ainda precisa ser refatorada para melhorar o desempenho e outras características da aplicação. Para salvar as notas e os lembretes o aplicativo faz uso do SQLite, um banco de dados poderoso e sofisticado presente nativamente no Android.
+Apesar de funcionar muito bem inicialmente, o projeto ainda está em fase alfa e muita coisa ainda precisa ser refatorada para melhorar o desempenho e outras características da aplicação. Para salvar as notas e os lembretes o aplicativo faz uso do SQLite, um banco de dados poderoso e sofisticado presente nativamente no Android.
 A aplicação não utiliza bibliotecas third-party. Apenas as bibliotecas da própria API de Suporte e Design do Android como a ```'com.android.support:design:28.0.0'``` entre outras.
 
 ## Objetivos Alcançados
