@@ -19,10 +19,10 @@ Apesar de funcionar muito bem inicialmente, o projeto ainda está em fase alfa e
 A aplicação não utiliza bibliotecas third-party. Apenas as bibliotecas da própria API de Suporte e Design do Android como a ```'com.android.support:design:28.0.0'``` entre outras.
 
 ## Objetivos Alcançados
-- Suporte a internacionalização
+- Suporte a internacionalização (Português Brasileiro e Inglês Norte-Americano)
 - Pesquisa de notas por palavras chave
 - Definição do layout de exibição das notas (StaggeredGrid, LinearLayout Vertical ou Grid)
-- Empty States para casos onde não há conteúdo 
+- Empty States para casos onde não há conteúdo afim de aprimorar a experiência do usuário 
 - Criação, Edição e Exclusão de notas e lembretes do SQLITE
 - Definição de Prioridades para os lembretes
 
